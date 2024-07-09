@@ -1,5 +1,5 @@
 // メンバーの定義
-const members = ['A', 'B', 'C'];
+const members = ['俺', 'B', 'C'];
 
 // 初期のスケジュールデータ
 const dates = getWeekDates();
